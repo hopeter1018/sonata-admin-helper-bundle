@@ -1,0 +1,3 @@
+ho_peter1018_sonata_admin_helper_homepage:
+    path:     /
+    defaults: { _controller: HoPeter1018SonataAdminHelperBundle:Default:index }
