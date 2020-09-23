@@ -34,8 +34,23 @@ $bundles = [
 ];
 ```
 
+### Add to doctrine config
+
+```yaml
+doctrine:
+  orm:
+    entity_managers:
+      mappings:
+        HoPeter1018SonataAdminHelperBundle: ~
+```
+
 ### Config
 
 ```yaml
-hopeter1018_sonata_admin_helper
+hopeter1018_sonata_admin_helper:
+
 ```
+
+## TODO
+
+-   [ ]

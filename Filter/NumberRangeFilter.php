@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace EasternColor\CoreBundle\Filter;
+namespace HoPeter1018\SonataAdminHelperBundle\Filter;
 
-use EasternColor\CoreBundle\Form\Type\NumberRangeType;
+use HoPeter1018\SonataAdminHelperBundle\Form\Type\NumberRangeType;
 use Sonata\AdminBundle\Datagrid\ProxyQueryInterface;
 use Sonata\AdminBundle\Form\Type\Filter\DefaultType;
 use Sonata\AdminBundle\Form\Type\Operator\NumberOperatorType;

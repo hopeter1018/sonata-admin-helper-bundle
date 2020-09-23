@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EasternColor\CoreBundle\Filter;
+namespace HoPeter1018\SonataAdminHelperBundle\Filter;
 
 use Sonata\DoctrineORMAdminBundle\Filter\DateTimeRangeFilter;
 use Sonata\Form\Type\DateTimeRangePickerType;

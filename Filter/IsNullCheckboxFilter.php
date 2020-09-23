@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EasternColor\CoreBundle\Filter;
+namespace HoPeter1018\SonataAdminHelperBundle\Filter;
 
 use Sonata\DoctrineORMAdminBundle\Filter\CallbackFilter;
 use Symfony\Component\Form\Extension\Core\Type\CheckboxType;

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EasternColor\CoreBundle\Filter;
+namespace HoPeter1018\SonataAdminHelperBundle\Filter;
 
 class YearDiffRangeFilter extends NumberRangeFilter
 {

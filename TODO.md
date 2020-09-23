@@ -1,0 +1,6 @@
+-   [ ] Admin Extension to
+    -   [ ] configure* by yaml
+-   [ ] DatePickerType
+    -   [ ] default format (yyyy-MM-dd)
+-   [ ] DateTimePickerType
+    -   [ ] default format (yyyy-MM-dd)
